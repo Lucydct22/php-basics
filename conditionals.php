@@ -19,7 +19,7 @@ echo "<br><br>";
 $m = date("October");
 
 if (date("F") == $m) {
-echo "We are in October";
+echo "We are in October"; 
 }
 
 else {
